@@ -1,6 +1,6 @@
-﻿token= NjAxMDgzMTIxNTgwMTEzOTgx.XS9JQw.5grnFfqmtmrpU6AxxRyPZOPznW4
-owner= 419567715548921859
-prefix= -
-game= -Play
-stayinchannel= true
-songinstatus= false
+﻿token=NjAxMDgzMTIxNTgwMTEzOTgx.XS9JQw.5grnFfqmtmrpU6AxxRyPZOPznW4
+owner=419567715548921859
+prefix=1
+game=1Play
+stayinchannel=true
+songinstatus=false
